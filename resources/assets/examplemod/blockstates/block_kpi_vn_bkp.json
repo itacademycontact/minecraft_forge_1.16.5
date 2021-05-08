@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "examplemod:block/block_kpi_vn"
+      }
+    ]
+  }
+}
